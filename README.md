@@ -1,45 +1,60 @@
 
 # Software Design & Architecture (SDA)
 
-Welcome to my **Software Design & Architecture (SDA)** repository! I created this repository to organize and share my lecture notes, lab activities, assignments, and practical work as part of my **BS Software Engineering, Semester 3** at the University of Azad Jammu and Kashmir (UAJK).
+Welcome to my **Software Design & Architecture (SDA)** repository! I created this repository to maintain and organize all my course materials throughout the semester as part of my **BS Software Engineering, Semester 3** at the University of Azad Jammu and Kashmir (UAJK).
 
-## 📚 Course Overview
+## 📚 About This Repository
 
-This repository contains my learning materials and practical activities for the Software Design & Architecture course. It helps me understand how real-world concepts are transformed into software objects and how software systems are designed and organized.
+This repository contains my complete coursework for Software Design & Architecture, including lecture notes, lab activities, assignments, practical examples, and revision materials. I will continue updating it throughout the course as I learn new concepts and complete academic tasks.
 
 ## 📂 Repository Contents
 
-- **Lecture Notes** — Notes and important concepts from SDA lectures.
-- **Lab Activities** — Practical activities completed during lab sessions.
-- **Assignments** — Course assignments and written reports.
-- **Practical Examples** — Examples of classes, objects, attributes, methods, and abstraction.
-- **Revision Materials** — Important topics for exam preparation.
+- **Lecture Notes** — Notes, explanations, and key concepts from lectures.
+- **Lab Activities** — Practical work completed during lab sessions.
+- **Assignments** — Individual and group assignments.
+- **Practical Examples** — Examples related to software design and modeling.
+- **Diagrams & Models** — UML diagrams and other software design models.
+- **Revision Materials** — Important concepts and study materials for exams.
 
-## 🧠 Topics Covered
+## 🧠 Course Topics
 
+The repository will cover topics studied throughout the SDA course, such as:
+
+- Introduction to Software Design & Architecture
 - Real-World Concepts to Software Objects
 - Classes and Objects
 - Conceptual Class Identification
 - Attributes, Methods, State, Behavior, and Identity
 - Abstraction and Encapsulation
-- Domain Model vs. Design Model
+- Domain Models and Design Models
 - Invented Software Objects
 - Class Relationships
+- Association, Aggregation, and Composition
+- Inheritance and Generalization
+- CRC Cards
 - UML Class Diagrams
+- Software Design Principles and Related Concepts
 
-## 🏥 Practical Work
+*The topics and materials will be updated according to the lectures and course content.*
 
-One of my practical activities focuses on a **Hospital Appointment Management System**, where I identify conceptual classes, define their attributes and methods, explain abstraction decisions, and identify an invented software object such as `AppointmentController`.
+## 🛠️ Practical Projects and Examples
 
-More practical activities and assignments will be added as I progress through the course.
+This repository may include practical examples and small system models, such as:
+
+- Hospital Management System
+- Library Management System
+- University Registration System
+- Other examples and activities completed during the course
+
+These examples help me practice identifying classes, defining attributes and methods, applying abstraction, and understanding how software objects work together.
 
 ## 🎯 Purpose of This Repository
 
-- Keep my coursework organized.
-- Track my learning progress.
-- Practice software design concepts.
-- Maintain assignments and lab reports for future reference.
-- Prepare for exams and practical assessments.
+- Organize all my SDA coursework in one place.
+- Keep track of my academic progress throughout the semester.
+- Practice software design and modeling concepts.
+- Maintain my lab reports, assignments, and practical work.
+- Review important topics for quizzes, exams, and future projects.
 
 ## 👨‍🎓 Student Information
 
@@ -47,8 +62,12 @@ More practical activities and assignments will be added as I progress through th
 - **Program:** BS Software Engineering
 - **Semester:** 3rd
 - **University:** University of Azad Jammu and Kashmir (UAJK)
-- **Course:** Software Design & Architecture
+- **Course:** Software Design & Architecture (SDA)
+
+## 📌 Updates
+
+I will continue adding lecture notes, lab activities, assignments, diagrams, and other learning materials as I progress through the course.
 
 ---
 
-**Note:** This repository is part of my academic learning journey. I will continue updating it as I complete more lectures, lab activities, and assignments.
+**Note:** This repository is part of my academic learning journey and serves as a personal collection of my Software Design & Architecture coursework.
